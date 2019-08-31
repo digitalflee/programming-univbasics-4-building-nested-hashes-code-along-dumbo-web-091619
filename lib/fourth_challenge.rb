@@ -8,6 +8,8 @@ def fourth_challenge
        benvolio => {:name => "Benvolio", :age = "17", :attitude => "worried"},
        mercutio => {:name => "Mercutio", :age = "18", :attitude => "hot-headed"}
       ]
+     
+   }
    }, 
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
@@ -17,6 +19,7 @@ def fourth_challenge
         steven => {:name => "Steven", :age => "30", :attitude => "confused"},
         nurse => {:name => "Nurse", :age => "44", :attitude => "worried"}
       ]
+   }
    }
 }
 
